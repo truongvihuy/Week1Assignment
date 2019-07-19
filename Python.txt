@@ -1,0 +1,6 @@
+https://www.hackerrank.com/rest/contests/master/challenges/py-hello-world/hackers/truongvihuy/download_solution
+https://www.hackerrank.com/rest/contests/master/challenges/py-if-else/hackers/truongvihuy/download_solution
+https://www.hackerrank.com/rest/contests/master/challenges/python-arithmetic-operators/hackers/truongvihuy/download_solution
+https://www.hackerrank.com/rest/contests/master/challenges/python-division/hackers/truongvihuy/download_solution
+https://www.hackerrank.com/rest/contests/master/challenges/python-loops/hackers/truongvihuy/download_solution
+https://www.hackerrank.com/rest/contests/master/challenges/python-print/hackers/truongvihuy/download_solution
